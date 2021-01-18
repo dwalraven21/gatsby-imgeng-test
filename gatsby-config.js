@@ -5,6 +5,5 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
+  assetPrefix: `https://y5w1ssio.cdn.imgeng.in`,
 }

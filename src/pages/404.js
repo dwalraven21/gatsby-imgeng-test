@@ -1,13 +1,10 @@
 import React from 'react'
-import {Link} from 'gatsby'
 import Layout from "../components/Layout"
 
-function index() {
+export default function error() {
   return (
     <Layout>
-      <h1>Hello from Gatsby!</h1>
+      <h1>404 Page</h1>
     </Layout>
   )
 }
-
-export default index
