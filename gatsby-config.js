@@ -5,5 +5,5 @@
  */
 
 module.exports = {
-  assetPrefix: `https://y5w1ssio.cdn.imgeng.in`,
+  // assetPrefix: `https://y5w1ssio.cdn.imgeng.in/`,
 }

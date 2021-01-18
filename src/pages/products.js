@@ -4,9 +4,9 @@ import Layout from "../components/Layout"
 const blog = () => {
   return (
     <Layout>
-      <h1>Blog Page</h1>
+      <h1>Products Page</h1>
     </Layout>
   )
 }
 
-export default blog
+export default products
